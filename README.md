@@ -6,5 +6,5 @@ Hi, Im Hrittique ! Currently studing at Daffodil International University.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Hrittique-Sarkar&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Hrittique-Sarkar&theme=neon&hide_border=false&v=20260518)<br/>
+![](https://streak-stats.demolab.com/?user=Hrittique-Sarkar&theme=neon&hide_border=false&v=20260518_1412)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hrittique-Sarkar&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
