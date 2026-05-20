@@ -11,7 +11,7 @@
 <h3> 🚀 Currently learning Backend Dev </h3>
       </p>
       <h3>🛠️ Tech Stack</h3>
-      <p>C/C++,Python</p>
+      <p><h3.5>C/C++,Python</h3.5></p>
     </td>
     <td valign="top" width="40%" align="center">
       <img src="./images.jpg" alt="Sukuna" width="100%" style="border-radius: 10px; max-width: 300px;"/>
