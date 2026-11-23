@@ -7,7 +7,7 @@
       <p>
         <h3>Hi, I'm Hrittique Sarkar </h3>   
 <h3> 🎓 CSE Student at Daffodil International University </h3>  
-<h3> 💻 Passionate about Competitive Programming, Backend Development & Networking. </h3>
+<h3> 💻 Passionate about Competitive Programming, Backend Development,Computer Vision and Low Resourse Language based NLP. </h3>
 <h3> 🚀 Currently learning Backend Dev </h3>
       </p>
       <h3>🛠️ Tech Stack</h3>
